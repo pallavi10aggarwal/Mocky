@@ -1,0 +1,6 @@
+framework module Pods_MockyEntersekt {
+  umbrella header "Pods-MockyEntersekt-umbrella.h"
+
+  export *
+  module * { export * }
+}

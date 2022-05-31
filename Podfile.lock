@@ -1,0 +1,24 @@
+PODS:
+  - CombineExt (1.5.1)
+  - SnapKit (5.6.0)
+  - Swinject (2.8.1)
+
+DEPENDENCIES:
+  - CombineExt
+  - SnapKit
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - CombineExt
+    - SnapKit
+    - Swinject
+
+SPEC CHECKSUMS:
+  CombineExt: e081b93f38f507660550e001531a049a6825f63e
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  Swinject: 97112918bd7e0785dc2df7036213f3c8cbba6586
+
+PODFILE CHECKSUM: 5310e6c05c24c43429d634d9209acd73ce4cab87
+
+COCOAPODS: 1.11.3
